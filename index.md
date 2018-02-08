@@ -7,4 +7,4 @@
 <img src="https://i.imgur.com/EljW7BZ.png"/>
 <img src="https://i.imgur.com/h53Cyxn.png"/>
 
-<a href="references.md">References</a>
+<a href="references.html">References</a>

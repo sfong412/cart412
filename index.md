@@ -1,6 +1,6 @@
-## CART 412 - Project Studio II
+# CART 412 - Project Studio II
 
-# An installation by Sherman Fong, Dimitri Kontogiannos and Emily Tooker.
+## An installation by Sherman Fong, Dimitri Kontogiannos and Emily Tooker.
 
 This website is meant for documentation and all that stuff.
 

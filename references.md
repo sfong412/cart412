@@ -7,6 +7,8 @@
 </head>
 
 <body>
+    
+    <h1>CART 412 - References</h1>
     <p>This project is inspired by several writing machines that have been created in the past. During our development process,
         we originally wanted to create an installation that would draw on its own. A writing utensil would be used, such
         as a pen, to draw on the surface below the installation. API data of the weather, such as the Weather Channel or OpenWeatherData,

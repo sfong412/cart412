@@ -38,13 +38,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 	padding-bottom: 32px;
 }
 
+#main {
+	width: 100%;
+	padding: 12px;
+}
+
 #content {
 	background-color: #1F2349;
 	float:left;
 	width: 80%;
 	padding: 12px;
-	font-size: 20px;
+	line-height: 1.2;
+	font-size: 16px;
 	padding-left: 18px;
+	margin-bottom: 18px;
 }
 
 #content p{
@@ -52,13 +59,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 	padding-bottom: 18px;
 }
 
+#content td {
+	padding: 0px 6px 0px;
+}
 
-aside {
+#sidebar {
 	background-color: #A0A0D3;
 	font-size: 20px;
 	padding: 12px;
 	width: 20%;
 	float:right;
-	height:100%;
-	line-height: 2.4;
+/*	height:100%;*/
+	line-height: 2.2;
 }
+
+audio {
+	width: 80%;
+	}

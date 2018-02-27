@@ -1,27 +1,32 @@
 html {
-	min-height:100%;
-	position:relative;
+	min-height: 100%;
+	position: relative;
 }
 
 body {
-	line-height:1.1;
-	font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+	line-height: 1.1;
+	font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
 	background-color: #A0A0D3;
-	color: #fff; 
-	}
+	color: #fff;
+}
 
 img {
 	padding-bottom: 12px;
-	}
+}
 
 #header {
 	/*background-color: #5AD1B7;*/
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,4e5596+100 */
-background: rgb(0,0,0); /* Old browsers */
-background: -moz-linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(78,85,150,1) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(45deg, rgba(0,0,0,1) 0%,rgba(78,85,150,1) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(45deg, rgba(0,0,0,1) 0%,rgba(78,85,150,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#4e5596',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	background: rgb(0, 0, 0);
+	/* Old browsers */
+	background: -moz-linear-gradient(45deg, rgba(0, 0, 0, 1) 0%, rgba(78, 85, 150, 1) 100%);
+	/* FF3.6-15 */
+	background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 1) 0%, rgba(78, 85, 150, 1) 100%);
+	/* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(45deg, rgba(0, 0, 0, 1) 0%, rgba(78, 85, 150, 1) 100%);
+	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#4e5596', GradientType=1);
+	/* IE6-9 fallback on horizontal gradient */
 	width: 100%;
 }
 
@@ -45,7 +50,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 
 #content {
 	background-color: #1F2349;
-	float:left;
+	float: left;
 	width: 80%;
 	padding: 12px;
 	line-height: 1.2;
@@ -54,7 +59,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 	margin-bottom: 18px;
 }
 
-#content p{
+#content p {
 	padding-top: 12px;
 	padding-bottom: 18px;
 }
@@ -68,11 +73,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
 	font-size: 20px;
 	padding: 12px;
 	width: 20%;
-	float:right;
-/*	height:100%;*/
+	float: right;
+	/*	height:100%;*/
 	line-height: 2.2;
 }
 
 audio {
 	width: 80%;
-	}
+}

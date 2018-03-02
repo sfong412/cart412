@@ -48,23 +48,28 @@ img {
 	padding: 12px;
 }
 
-#content {
+.content {
 	background-color: #1F2349;
 	float: left;
 	width: 80%;
 	padding: 12px;
 	line-height: 1.2;
-	font-size: 16px;
 	padding-left: 18px;
 	margin-bottom: 18px;
 }
 
-#content p {
+.content p {
+	font-size: 16px;
 	padding-top: 12px;
 	padding-bottom: 18px;
 }
 
-#content td {
+.content h2 {
+	font-size: 28px;
+	text-align: right;
+}
+
+.content td {
 	padding: 0px 6px 0px;
 }
 

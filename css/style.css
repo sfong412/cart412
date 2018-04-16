@@ -73,6 +73,14 @@ img {
 	padding: 0px 6px 0px;
 }
 
+.content img {
+	max-width: 400px;
+}
+
+.content a {
+	color: #fff;
+}
+
 #sidebar {
 	background-color: #A0A0D3;
 	font-size: 20px;
